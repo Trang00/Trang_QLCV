@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/ato/qlcv/data/Constants.java=UTF-8
+encoding//src/main/java/ato/qlcv/data/Locator.java=UTF-8
+encoding//src/main/java/ato/qlcv/page/LoginPage.java=UTF-8
+encoding//src/main/java/ato/qlcv/test/LoginTest.java=UTF-8
+encoding//src/main/java/ato/qlcv/test/TestTest00.java=UTF-8
+encoding//src/main/java/ato/qlcv/webdriver/action/Commom.java=UTF-8
+encoding//src/main/java/ato/qlcv/webdriver/action/SetUp.java=UTF-8

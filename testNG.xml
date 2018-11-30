@@ -1,0 +1,10 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="Test QLCV Login thanh cong" verbose="1">
+	<test name="FirstTest Login">
+		<classes>
+			<class name="ato.qlcv.test.LoginTest" />
+		</classes>
+	</test>
+</suite>
