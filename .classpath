@@ -33,5 +33,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="E:/SELE/driver/fillo-1.18/fillo-1.18.jar"/>
+	<classpathentry kind="lib" path="E:/SELE/driver/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/SELE/driver/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE/driver/ashot-1.5.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

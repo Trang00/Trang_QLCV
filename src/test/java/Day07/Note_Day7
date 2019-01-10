@@ -1,0 +1,8 @@
+Đăng nhập thành công, đăng nhập không thành công- đưa ra thông báo đăng nhập không thành công
+Đăng nhập với dữ liệu excel với 2 cách
+Đăng nhập với dữ liệu Provider
+Chụp ảnh màn hình đăng nhập thành công( Screenshot)
+
+	/Chụp ảnh màn hình login thành công lưu thành file
+			File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+			FileUtils.copyFile(scrFile, new File("E:\\screenshot.png"));// Code to save screenshot at desired location

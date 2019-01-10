@@ -22,7 +22,7 @@ public class LoginLapTest extends SetUp{
 	Generator_Randum genLogin; // khoi tao randum login
 	String Tieude="ATO Quản lý công việc";
 
-@Test(dataProvider="UserPass", invocationCount=3, description="Testing loop for every testcase")
+@Test(dataProvider="UserPass", invocationCount=1, description="Testing loop for every testcase")
 // Tính năng test TestNG là chạy lặp testcase n lần ( ở đây lặp 3 lần)
 	public void LoginThanhCong(String uName,String uPass) throws Exception{
 

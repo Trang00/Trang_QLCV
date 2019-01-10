@@ -49,4 +49,31 @@ public class Locator {
 		public static final String B_TLAddLuu=".//*[@id='modal_tailieu']/div/div/div[3]/div/div[1]";
 		public static final String B_TLAddClose=".//*[@id='modal_tailieu']/div/div/div[3]/div/div[2]";
 		
+// KHÁCH HÀNG
+		//THÊM MỚI KHÁCH HÀNG
+		
+		public static final String C_KH =".//*[@id='navbar-mobile']/ul[1]/li/div/ul/li/div/ul/li[6]/a";
+		public static final String C_AddKH=".//*[@id='KhachHang']/div[2]/table/tbody/tr[1]/th[1]/a/i";
+		public static final String I_MaKH=".//*[@id='Ma']";
+		public static final String I_TenKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[3]/input";
+		public static final String I_EmailKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[4]/input";
+		public static final String I_DienThoaiKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[5]/input";
+		public static final String I_DiaChiKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[6]/textarea";
+		public static final String I_DiaChiGiaoHangKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[7]/textarea";
+		public static final String I_CongTyKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[8]/textarea";
+		public static final String I_TTNguoiDaiDien_KH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[10]/input";
+		public static final String I_DThoaiNDDKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[11]/input";
+		public static final String I_EmailNDDKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[12]/input";
+		public static final String I_NguoiGDKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[14]/input";
+		public static final String I_DienThoaiNGDKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[15]/input";
+		public static final String I_EmailNGDKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[16]/input";
+		public static final String S_LoaiKH="";
+		public static final String S_NguonKH="";
+		public static final String S_NVTaoKH="";
+		public static final String S_NVPhuTrachKH="";
+		public static final String I_GhiChuKH=".//*[@id='modal_khachhang']/div/div/div[2]/div/form/div[21]/textarea";
+		
+		public static final String B_AddKHLuu=".//*[@id='modal_khachhang']/div/div/div[3]/div/button";
+		public static final String B_AddKHDong=".//*[@id='modal_khachhang']/div/div/div[3]/div/div";
+		
 }
